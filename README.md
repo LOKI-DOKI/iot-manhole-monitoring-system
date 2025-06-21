@@ -1,6 +1,3 @@
-# iot-manhole-monitoring-system
-IoT-based Smart Manhole Monitoring System using Arduino and Sensors for Urban Infrastructure Safety
-
 # 🚧 IoT-Based Manhole Monitoring System
 
 An Internet of Things (IoT) project designed to monitor the environmental conditions inside urban manholes in real time. This system detects harmful gases, smoke, abnormal pressure, and temperature levels using multiple sensors connected to a NodeMCU microcontroller. The collected data is transmitted to the cloud via Wi-Fi using **ThingSpeak**, enabling authorities to prevent hazards and ensure worker safety.
