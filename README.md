@@ -58,6 +58,8 @@ The NodeMCU uses its built-in Wi-Fi to send data to **ThingSpeak**, an IoT analy
    - Field 4: Pressure (BMP180)
 4. Copy the **Write API Key**
 5. In the Arduino code, replace `"YOUR_API_KEY"` with your actual key.
+   ![Screenshot 2024-09-30 213628](https://github.com/user-attachments/assets/1b253121-39f4-48e4-99ae-726bc1e8e3c2)
+
 
 ---
 
@@ -86,6 +88,9 @@ The NodeMCU uses its built-in Wi-Fi to send data to **ThingSpeak**, an IoT analy
 - Temperature vs. Time graph
 - Pressure changes indicating flooding or blockage
 - Smoke level spikes
+
+![image](https://github.com/user-attachments/assets/90070a5b-1988-460c-833d-cf4af99045f8)
+
 
 ---
 
