@@ -100,7 +100,7 @@ The NodeMCU uses its built-in Wi-Fi to send data to **ThingSpeak**, an IoT analy
 
 🙋 Developed By
 Lokesh Varan
-Final Year B.Tech IT | Sathyabama University
+|Final Year B.Tech IT | Sathyabama University
 💻 GitHub: LOKI-DOKI
 📫 Email: *lokeshvaranlokeshvaran98@example.com*
 
